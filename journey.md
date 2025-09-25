@@ -1,0 +1,7 @@
+# 100 Days of Code Log
+
+## Day 1: September 24, 2025
+Today, I learned about TailWindCSS
+
+## Day 2: September 25, 2025
+Done a social card in tailwind,need to refine more...

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tailwind-Demo</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .btn{
+            background-color: hsl(0, 0%, 12%);
+            margin-bottom: 1rem;
+            font-weight: 600;
+            font-size: medium;
+            padding:0.5rem;
+            border-radius: 0.6rem;
+        }
+        .btn:hover{
+            background-image:linear-gradient(to right, #facc15, #f97316, #dc2626) ;
+            color: black;
+            
+        }
+    </style>
+  </head>
+  <body class="bg-slate-900 min-h-screen flex items-center justify-center ">
+    <div class="bg-gray-800 text-white w-fit h-fit p-8 rounded-lg">
+      <div class=" flex flex-col items-center">
+        <img
+          class="size-24 object-cover object-top rounded-full"
+          src="rengoku.jpg"
+          alt="profile pic"
+        />
+        <div>
+          <h2 class="font-bold text-xl">Rengoku Samal</h2>
+          <h6 class="font-semibold text-amber-400 text-lg ">Odisha,India</h6>
+        </div>
+        <p class="text-base font-semibold text-gray-300 mt-4">"Flame Hashira ,mostly positive."</p>
+      </div>
+      <div class="flex flex-col mt-4">
+        <button class="btn">Github</button><button class="btn">LinkedIn</button><button class="btn">X</button
+        ><button class="btn">Instagram</button>
+      </div>
+    </div>
+  </body>
+</html>
