@@ -1,0 +1,92 @@
+*{
+    margin:0;
+    padding:0;
+}
+#main{
+    height:100vh;
+    width:100vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items:center;
+    background-color: #000814;
+}
+#container{
+    height:380px;
+    width:100%;
+    /* border:2px solid beige; */
+    display:flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+}
+.movies{
+    height:320px;
+    width:240px;
+    border-radius: 20px;
+}
+#first{
+    align-self:start;
+    position: relative;
+    transition: all 0.3s;
+}
+#second{
+    align-self:end;
+    position: relative;
+    transition: all 0.3s;
+}
+#third{
+    align-self:start;
+    position: relative;
+    transition: all 0.3s;
+}
+#fourth{
+    align-self:end;
+    position: relative;
+    transition: all 0.3s;
+}
+
+.overlay{
+    position:absolute;
+    background-color: #00000062;
+    height:100%;
+    width:100%;
+    border-radius: 20px;
+    top:0;
+    left:0;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    opacity:0;
+    transition: all 0.3s ease;
+}
+.overlay span{
+    text-align:center;
+    color:white;
+    font-size: 25px;
+}
+#fourth:hover{
+    transform: scale(1.1);
+}
+#fourth:hover .overlay{
+    opacity:1;
+}
+
+#first:hover{
+    transform: scale(1.1);
+}
+#first:hover .overlay{
+    opacity:1;
+}
+#second:hover{
+    transform: scale(1.1);
+}
+#second:hover .overlay{
+    opacity:1;
+}
+#third:hover{
+    transform: scale(1.1);
+}
+#third:hover .overlay{
+    opacity:1;
+}
