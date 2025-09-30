@@ -17,3 +17,6 @@ Revised some of JavaScript Concepts upto DOM
 
 ## Day 6: September 29, 2025
 Did a small DOM related project (Guess-My-Number) with help of Jonas Schmedtmann.
+
+## Day 7: September 30, 2025
+Started diving deeper into Web Designs...
