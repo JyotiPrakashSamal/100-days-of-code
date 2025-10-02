@@ -23,3 +23,6 @@ Started diving deeper into Web Designs...
 
 ## Day 8: October 1, 2025
 Did PIG GAME using JavaScript.
+
+## Day 9: October 2, 2025
+Explored Aptitude and Reasoning topics.
