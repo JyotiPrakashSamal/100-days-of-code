@@ -26,3 +26,6 @@ Did PIG GAME using JavaScript.
 
 ## Day 9: October 2, 2025
 Explored Aptitude and Reasoning topics.
+
+## Day 10: October 3, 2025
+Explored Data Structures & Modern Operators in JavaScript.
