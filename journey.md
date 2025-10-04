@@ -29,3 +29,6 @@ Explored Aptitude and Reasoning topics.
 
 ## Day 10: October 3, 2025
 Explored Data Structures & Modern Operators in JavaScript.
+
+## Day 11: October 4, 2025
+Explored Array methods in JavaScript,and solved some basic questions related to logic programming in Python.
