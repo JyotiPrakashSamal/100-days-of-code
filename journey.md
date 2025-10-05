@@ -32,3 +32,6 @@ Explored Data Structures & Modern Operators in JavaScript.
 
 ## Day 11: October 4, 2025
 Explored Array methods in JavaScript,and solved some basic questions related to logic programming in Python.
+
+## Day 12: October 5, 2025
+Studied Higher-Order Functions,call/apply/bind and Closures in JavaScript.
