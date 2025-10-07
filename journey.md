@@ -38,3 +38,6 @@ Studied Higher-Order Functions,call/apply/bind and Closures in JavaScript.
 
 ## Day 13: October 6, 2025
 Solved a bit of Logical Questions in Python...
+
+## Day 14: October 7, 2025
+A sneak peek into Git and Github [kind of Intro]...
