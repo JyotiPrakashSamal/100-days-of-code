@@ -44,3 +44,6 @@ A sneak peek into Git and Github [kind of Intro]...
 
 ## Day 15: October 8, 2025
 Implemented some Git Commands and peeked into hacktober...
+
+## Day 16: October 9, 2025
+Recursion and its related problems in Python.
