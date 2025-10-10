@@ -47,3 +47,6 @@ Implemented some Git Commands and peeked into hacktober...
 
 ## Day 16: October 9, 2025
 Recursion and its related problems in Python.
+
+## Day 17: October 10, 2025
+Dates and Timers in JavaScript.
