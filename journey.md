@@ -50,3 +50,6 @@ Recursion and its related problems in Python.
 
 ## Day 17: October 10, 2025
 Dates and Timers in JavaScript.
+
+## Day 18: October 11, 2025
+Revised Computer Networking.
