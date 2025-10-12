@@ -53,3 +53,6 @@ Dates and Timers in JavaScript.
 
 ## Day 18: October 11, 2025
 Revised Computer Networking.
+
+## Day 19: October 12, 2025
+A peek into Python logic questions.
