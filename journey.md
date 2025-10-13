@@ -56,3 +56,6 @@ Revised Computer Networking.
 
 ## Day 19: October 12, 2025
 A peek into Python logic questions.
+
+## Day 20: October 13, 2025
+Intro to OOP...
