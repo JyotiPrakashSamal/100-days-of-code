@@ -61,3 +61,4 @@ A peek into Python logic questions.
 Intro to OOP...
 
 ## Day 21: October 14, 2025
+Did some Fun challenges in JS using Modern Operators.
