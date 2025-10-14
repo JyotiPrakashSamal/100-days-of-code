@@ -59,3 +59,5 @@ A peek into Python logic questions.
 
 ## Day 20: October 13, 2025
 Intro to OOP...
+
+## Day 21: October 14, 2025
