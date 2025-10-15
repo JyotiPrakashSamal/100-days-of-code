@@ -62,3 +62,6 @@ Intro to OOP...
 
 ## Day 21: October 14, 2025
 Did some Fun challenges in JS using Modern Operators.
+
+## Day 22: October 15, 2025
+Continued some other challenges from tomorrow..
