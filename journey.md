@@ -64,4 +64,7 @@ Intro to OOP...
 Did some Fun challenges in JS using Modern Operators.
 
 ## Day 22: October 15, 2025
-Continued some other challenges from tomorrow..
+Continued some other challenges from yesterday..
+
+## Day 23: October 16, 2025
+Refined Networking Concepts.
