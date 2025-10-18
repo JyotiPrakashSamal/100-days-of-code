@@ -68,3 +68,9 @@ Continued some other challenges from yesterday..
 
 ## Day 23: October 16, 2025
 Refined Networking Concepts.
+
+## Day 24: October 17, 2025
+Didn't Do Anything...
+
+## Day 25: October 18, 2025
+Continued Networking Concepts like Subnetting...
