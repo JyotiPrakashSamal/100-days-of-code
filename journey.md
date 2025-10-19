@@ -74,3 +74,6 @@ Didn't Do Anything...
 
 ## Day 25: October 18, 2025
 Continued Networking Concepts like Subnetting...
+
+## Day 26: October 19, 2025
+Explored Prompting for AIs.
